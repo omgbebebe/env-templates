@@ -1,0 +1,3 @@
+#include "/home/scor/.Xresources.d/urxvt.xres"
+#include "/home/scor/.Xresources.d/xft.xres"
+#include "/home/scor/.Xresources.d/xcursor.xres"
